@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Maquette Cantine, fiche</title>
+  <desc id="desc">Exemple de fiche d'un plat avec un bouton pour signaler la rupture.</desc>
+  <rect width="800" height="1000" rx="48" fill="#F1E9D6"/>
+  <rect x="56" y="56" width="200" height="48" rx="24" fill="#9DB89A"/>
+  <text x="80" y="88" fill="#1A1612" font-family="Inter, sans-serif" font-size="24">Exemple</text>
+  <text x="56" y="200" fill="#1A1612" font-family="Sora, sans-serif" font-size="64" font-weight="600">Garba</text>
+  <text x="56" y="270" fill="#3A342C" font-family="Inter, sans-serif" font-size="32">Attiéké, thon, piment. 800 F.</text>
+  <rect x="56" y="340" width="688" height="280" rx="36" fill="#0B1020"/>
+  <circle cx="400" cy="480" r="70" fill="#E8805A"/>
+  <text x="56" y="720" fill="#2C4A34" font-family="Inter, sans-serif" font-size="28">Il en reste encore à 12 h.</text>
+  <rect x="56" y="820" width="688" height="100" rx="50" fill="#1A1612"/>
+  <text x="230" y="882" fill="#F1E9D6" font-family="Sora, sans-serif" font-size="32" font-weight="600">Signaler la rupture</text>
+</svg>

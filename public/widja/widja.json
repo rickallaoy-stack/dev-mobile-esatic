@@ -1,0 +1,18 @@
+{
+  "artboard": "Widja",
+  "fps": 60,
+  "width": 520,
+  "height": 780,
+  "states": [
+    "idle",
+    "wave",
+    "think",
+    "celebrate"
+  ],
+  "animations": {
+    "jour": {
+      "frames": 100,
+      "seconds": 1.6666666666666667
+    }
+  }
+}

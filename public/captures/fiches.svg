@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+  <title id="title">Maquette Fiches</title>
+  <desc id="desc">Exemple d'un site de cartes de révision, question au recto.</desc>
+  <rect width="1200" height="750" rx="40" fill="#F1E9D6"/>
+  <text x="72" y="90" fill="#2C4A34" font-family="Inter, sans-serif" font-size="28">Exemple · site</text>
+  <rect x="180" y="160" width="840" height="420" rx="36" fill="#0B1020"/>
+  <text x="230" y="280" fill="#54C5F8" font-family="Inter, sans-serif" font-size="24">Widgets</text>
+  <text x="230" y="370" fill="#F1E9D6" font-family="Sora, sans-serif" font-size="42" font-weight="600">À quoi sert un StatelessWidget ?</text>
+  <text x="230" y="500" fill="#9DB89A" font-family="Inter, sans-serif" font-size="28">Retourner la fiche</text>
+</svg>

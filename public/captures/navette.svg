@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Maquette Navette</title>
+  <desc id="desc">Exemple d'écran des prochains départs, avec un trajet sans horaire.</desc>
+  <rect width="800" height="1000" rx="48" fill="#0B1020"/>
+  <text x="56" y="120" fill="#54C5F8" font-family="Inter, sans-serif" font-size="28">Exemple · Navette</text>
+  <text x="56" y="200" fill="#F1E9D6" font-family="Sora, sans-serif" font-size="56" font-weight="600">Prochains départs</text>
+  <rect x="56" y="270" width="688" height="160" rx="32" fill="#151B31"/>
+  <text x="88" y="340" fill="#F1E9D6" font-family="Sora, sans-serif" font-size="32">Cocody → Campus</text>
+  <text x="88" y="390" fill="#9DB89A" font-family="Inter, sans-serif" font-size="28">12 h 30</text>
+  <rect x="56" y="460" width="688" height="160" rx="32" fill="#151B31"/>
+  <text x="88" y="530" fill="#F1E9D6" font-family="Sora, sans-serif" font-size="32">Campus → Cocody</text>
+  <text x="88" y="580" fill="#E8805A" font-family="Inter, sans-serif" font-size="28">Aucun horaire annoncé</text>
+  <text x="56" y="760" fill="#F1E9D6" font-family="Inter, sans-serif" font-size="26">Maquette. Pas un horaire réel.</text>
+</svg>
