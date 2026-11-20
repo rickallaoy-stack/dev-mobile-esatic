@@ -15,3 +15,5 @@ build/
 # Artefacts locaux et fichiers de préparation
 attachments/
 screenshots/
+
+.vercel
